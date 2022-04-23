@@ -56,3 +56,22 @@ h1 {
 a {
     text-decoration: none; 
 }
+
+section {
+    display: flex;
+    flex-direction: row;
+}
+article {
+    background-color: #8091F2;
+    color: #231B40;
+    font-weight: bold;
+    border-radius: 5px 5px 10px 5px;
+}
+article ul li {
+    color: #0A0A0A;
+    font-weight: 100;
+}
+div {
+    background-color: #231B40;
+    padding: 10px;
+}
